@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lavector.crawlers.tasks.CustomGenerationIdTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.196 s - in com.lavector.crawlers.tasks.CustomGenerationIdTest
